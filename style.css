@@ -1,3 +1,13 @@
+body{
+background-image: url(namek.png)
+}
+#name
+{
+width: 20%;
+height: 20%;
+
+}
+
 #search-area
 {
 float: right;
@@ -14,7 +24,7 @@ color: white;
 padding-left: 10px;
 padding-right: 10px;
 margin-left: 10px;
-height: 35px;
+height: 45px;
 width: 96px;
 font-size: 17px;
 font-weight:bold;
@@ -23,4 +33,14 @@ font-weight:bold;
 h1{
 text-align: center;
 }
+
+#searches{
+margin-left: 400px;
+margin-right: 400px;
+border: 2px solid;
+text-align: center;
+margin-top: 5px;
+}
+
+
 
